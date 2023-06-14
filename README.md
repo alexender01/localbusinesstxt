@@ -1,2 +1,2 @@
-# localbusinesstxt
+# Local Business.txt
 Local Business.txt
