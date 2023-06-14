@@ -38,7 +38,7 @@ Intended for websites
 
 Challenges with existing solutions
 ----------------------------------
-There isn't a simple, cheap, and worldwide solution to get the latest information of local businesses. There should be one! Website providers need it. Local businesses need it.
+There isn't a simple, cheap, and worldwide solution to get the latest information on local businesses. There should be one! Website providers need it. Local businesses need it.
 Local businesses now have three options for updating the most recent information:
 
 1. Some local businesses update their information on all of their websites. It takes too long, and there are thousands of websites with the same material. Many of them do not enable you to change the data.
@@ -68,7 +68,6 @@ Short description: Transformative treatments and personalized care in a welcomin
 Website: https://www.tuugo.us/Companies/menkoi-salon/0310007007295
 Twitter: Menkoi
 Facebook: https://www.facebook.com/menkoisalon
-Google: https://plus.google.com/108935673850120788149/about?hl=en
 Yelp: https://www.yelp.com/biz/menkoi-salon-chicago
 Zaubee: https://zaubee.com/biz/menkoi-salon-e7stwbfa
 Orcid: https://orcid.org/0009-0006-3962-9545
@@ -90,8 +89,6 @@ Future Actions
 2. Debate and improve the standard
 3. Create a website and some WordPress and other CMS plugins to generate a business.txt file.
 4. Encourage participation from local businesses.
-
-The standard proposal can be discussed in this [Google group](https://groups.google.com/forum/#!forum/businesstxt).
 
 Contribute to improvement
 -------------------------
