@@ -47,3 +47,53 @@ Local businesses now have three options for updating the most recent information
 Websites, on the other hand, must now urge their users or local businesses to update their information. It takes far too long. And out-of-date information might impair a user's experience with a website or app.
 
 There isn't a straightforward, low-cost, global method for getting the most up-to-date information about local firms. There should be! It is required of website providers. It is necessary for local enterprises.
+
+Examples
+--------
+
+```
+Name: MENKOI SALON
+Categories: Beauty Salon
+Street: 100 E Walton St #108, Streeterville
+Zip: 60611
+City: Chicago
+State: Illinois
+Country: United States
+Coordinates: 41.900246, -87.625166
+Phone: (1) 312-989-8831
+Price range: $$
+Average Rating of 3.2 stars.
+Short description: Transformative treatments and personalized care in a welcoming ambiance. Your destination for ultimate self-care.
+
+Website: https://www.tuugo.us/Companies/menkoi-salon/0310007007295
+Twitter: Menkoi
+Facebook: https://www.facebook.com/menkoisalon
+Google: https://plus.google.com/108935673850120788149/about?hl=en
+Yelp: https://www.yelp.com/biz/menkoi-salon-chicago
+Zaubee: https://zaubee.com/biz/menkoi-salon-e7stwbfa
+Orcid: https://orcid.org/0009-0006-3962-9545
+Deviantart: https://www.deviantart.com/deyab81791/art/Woman-5989552-1280-966374369
+```
+Documentation
+-------------
+
+Learn about [all the options of a localbusiness.txt file](https://github.com/alexender01/localbusinesstxt/tree/main).
+
+**Websites**
+
+* [Tuugo](https://www.tuugo.us/)
+
+Future Actions
+---------------
+
+1. Enlist the participation of websites
+2. Debate and improve the standard
+3. Create a website and some WordPress and other CMS plugins to generate a business.txt file.
+4. Encourage participation from local businesses.
+
+The standard proposal can be discussed in this [Google group](https://groups.google.com/forum/#!forum/businesstxt).
+
+Contribute to improvement
+-------------------------
+Please tell us how we may improve on this soon-to-be standard. If you have a feature request or a bug, please [open a support ticket](https://github.com/alexender01/localbusinesstxt/issues). Also, feel free to fork these documents and submit an enhancement pull request!
+
